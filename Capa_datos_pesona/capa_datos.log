@@ -1,0 +1,495 @@
+05:42:44 PM: DEBUG [logger_bsae.py:11] Mensaje a nivel debug
+05:42:44 PM: INFO [logger_bsae.py:12] Mensaje a nivel de info
+05:42:44 PM: WARNING [logger_bsae.py:13] Mensaje a nivel de warnig
+05:42:44 PM: ERROR [logger_bsae.py:14] Mensaje a nivel de error
+05:42:44 PM: CRITICAL [logger_bsae.py:15] mensaje a nivel critico
+05:43:30 PM: DEBUG [logger_base.py:11] Mensaje a nivel debug
+05:43:30 PM: INFO [logger_base.py:12] Mensaje a nivel de info
+05:43:30 PM: WARNING [logger_base.py:13] Mensaje a nivel de warnig
+05:43:30 PM: ERROR [logger_base.py:14] Mensaje a nivel de error
+05:43:30 PM: CRITICAL [logger_base.py:15] mensaje a nivel critico
+05:54:37 PM: DEBUG [logger_base.py:11] Mensaje a nivel debug
+05:54:37 PM: INFO [logger_base.py:12] Mensaje a nivel de info
+05:54:37 PM: WARNING [logger_base.py:13] Mensaje a nivel de warnig
+05:54:37 PM: ERROR [logger_base.py:14] Mensaje a nivel de error
+05:54:37 PM: CRITICAL [logger_base.py:15] mensaje a nivel critico
+05:54:39 PM: DEBUG [persona.py:54] 
+        Id Persona:1,Nombre : Maria ,
+        Apellido : Lopez,Email :hakdah@gmail.com
+        
+05:55:38 PM: DEBUG [persona.py:54] 
+        Id Persona:1,Nombre : Maria ,
+        Apellido : Lopez,Email :hakdah@gmail.com
+        
+05:56:23 PM: DEBUG [persona.py:54] 
+        Id Persona:1,Nombre : Maria ,
+        Apellido : Lopez,Email :hakdah@gmail.com
+        
+05:56:23 PM: DEBUG [persona.py:58] 
+        Id Persona:Maria,Nombre : Lopez ,
+        Apellido : hakdah@gmail.com,Email :None
+        
+05:57:03 PM: DEBUG [persona.py:54] 
+        Id Persona:1,Nombre : Maria ,
+        Apellido : Lopez,Email :hakdah@gmail.com
+        
+05:57:03 PM: DEBUG [persona.py:58] 
+        Id Persona:None,Nombre : Maria ,
+        Apellido : Lopez,Email :hakdah@gmail.com
+        
+05:58:08 PM: DEBUG [persona.py:54] 
+        Id Persona:1,Nombre : Maria ,
+        Apellido : Lopez,Email :hakdah@gmail.com
+        
+05:58:08 PM: DEBUG [persona.py:58] 
+        Id Persona:None,Nombre : Maria ,
+        Apellido : Lopez,Email :hakdah@gmail.com
+        
+05:58:08 PM: DEBUG [persona.py:63] 
+        Id Persona:1,Nombre : None ,
+        Apellido : None,Email :None
+        
+06:35:05 PM: DEBUG [conexion.py:23] Conexion Exitosa :<connection object at 0x000002A43BFBA7B0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+06:36:01 PM: DEBUG [conexion.py:23] Conexion Exitosa :<connection object at 0x000002D36CADA7B0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+06:36:01 PM: DEBUG [conexion.py:36] Se abrio correctamente el cursor :<cursor object at 0x000002D36E7CAC80; closed: 0>
+06:47:44 PM: DEBUG [conexion.py:23] Conexion Exitosa :<connection object at 0x0000022EF96FA7B0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+06:47:44 PM: DEBUG [conexion.py:36] Se abrio correctamente el cursor :<cursor object at 0x0000022EFB9E6BA0; closed: 0>
+06:47:44 PM: DEBUG [persona_dao.py:31] 
+        Id Persona:6,Nombre : Marco ,
+        Apellido : Rio,Email :jsldjls@mail.com
+        
+06:47:44 PM: DEBUG [persona_dao.py:31] 
+        Id Persona:7,Nombre : Carlos ,
+        Apellido : Lara,Email :sjj@mail.com
+        
+06:47:44 PM: DEBUG [persona_dao.py:31] 
+        Id Persona:8,Nombre : Carlos ,
+        Apellido : Lara,Email :sjj@mail.com
+        
+06:47:44 PM: DEBUG [persona_dao.py:31] 
+        Id Persona:9,Nombre : Felipe ,
+        Apellido : Lopez,Email :s78sdsaj@mail.com
+        
+06:47:44 PM: DEBUG [persona_dao.py:31] 
+        Id Persona:10,Nombre : Monica ,
+        Apellido : resyes,Email :s78sdsaj@mail.com
+        
+06:47:44 PM: DEBUG [persona_dao.py:31] 
+        Id Persona:14,Nombre : Mariela ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+06:47:44 PM: DEBUG [persona_dao.py:31] 
+        Id Persona:15,Nombre : Mariela ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+06:47:44 PM: DEBUG [persona_dao.py:31] 
+        Id Persona:16,Nombre : Andres ,
+        Apellido : Espaa,Email :ahsak@gmail.com
+        
+06:47:44 PM: DEBUG [persona_dao.py:31] 
+        Id Persona:17,Nombre : Mariela ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+06:47:44 PM: DEBUG [persona_dao.py:31] 
+        Id Persona:18,Nombre : Camilo ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+06:47:44 PM: DEBUG [persona_dao.py:31] 
+        Id Persona:19,Nombre : Camilo ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+06:47:44 PM: DEBUG [persona_dao.py:31] 
+        Id Persona:20,Nombre : Camilo ,
+        Apellido : Esparssdaddadadza,Email :ahsak@gmail.com
+        
+06:47:44 PM: DEBUG [persona_dao.py:31] 
+        Id Persona:21,Nombre : Camilo ,
+        Apellido : Esparssdaddadadza,Email :ahsak@gmail.com
+        
+06:47:44 PM: DEBUG [persona_dao.py:31] 
+        Id Persona:22,Nombre : Camilo ,
+        Apellido : Esparssdaddadadza,Email :ahsak@gmail.com
+        
+06:47:44 PM: DEBUG [persona_dao.py:31] 
+        Id Persona:23,Nombre : Camilo ,
+        Apellido : Esparss,Email :ahsak@gmail.com
+        
+06:54:21 PM: DEBUG [conexion.py:23] Conexion Exitosa :<connection object at 0x000002C3A447A7B0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+06:55:11 PM: DEBUG [conexion.py:23] Conexion Exitosa :<connection object at 0x000001BE9055A7B0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+06:56:18 PM: DEBUG [conexion.py:23] Conexion Exitosa :<connection object at 0x0000026A18F1A7B0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+06:56:18 PM: DEBUG [persona_dao.py:34] persona a insertada : 
+        Id Persona:None,Nombre : predro ,
+        Apellido : Rios,Email :hkhk@gmail.com
+        
+06:56:19 PM: DEBUG [persona_dao.py:44] 1
+06:56:19 PM: DEBUG [conexion.py:36] Se abrio correctamente el cursor :<cursor object at 0x0000026A1AAFAC80; closed: 0>
+06:56:19 PM: DEBUG [persona_dao.py:47] 
+        Id Persona:6,Nombre : Marco ,
+        Apellido : Rio,Email :jsldjls@mail.com
+        
+06:56:19 PM: DEBUG [persona_dao.py:47] 
+        Id Persona:7,Nombre : Carlos ,
+        Apellido : Lara,Email :sjj@mail.com
+        
+06:56:19 PM: DEBUG [persona_dao.py:47] 
+        Id Persona:8,Nombre : Carlos ,
+        Apellido : Lara,Email :sjj@mail.com
+        
+06:56:19 PM: DEBUG [persona_dao.py:47] 
+        Id Persona:9,Nombre : Felipe ,
+        Apellido : Lopez,Email :s78sdsaj@mail.com
+        
+06:56:19 PM: DEBUG [persona_dao.py:47] 
+        Id Persona:10,Nombre : Monica ,
+        Apellido : resyes,Email :s78sdsaj@mail.com
+        
+06:56:19 PM: DEBUG [persona_dao.py:47] 
+        Id Persona:14,Nombre : Mariela ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+06:56:19 PM: DEBUG [persona_dao.py:47] 
+        Id Persona:15,Nombre : Mariela ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+06:56:19 PM: DEBUG [persona_dao.py:47] 
+        Id Persona:16,Nombre : Andres ,
+        Apellido : Espaa,Email :ahsak@gmail.com
+        
+06:56:19 PM: DEBUG [persona_dao.py:47] 
+        Id Persona:17,Nombre : Mariela ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+06:56:19 PM: DEBUG [persona_dao.py:47] 
+        Id Persona:18,Nombre : Camilo ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+06:56:19 PM: DEBUG [persona_dao.py:47] 
+        Id Persona:19,Nombre : Camilo ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+06:56:19 PM: DEBUG [persona_dao.py:47] 
+        Id Persona:20,Nombre : Camilo ,
+        Apellido : Esparssdaddadadza,Email :ahsak@gmail.com
+        
+06:56:19 PM: DEBUG [persona_dao.py:47] 
+        Id Persona:21,Nombre : Camilo ,
+        Apellido : Esparssdaddadadza,Email :ahsak@gmail.com
+        
+06:56:19 PM: DEBUG [persona_dao.py:47] 
+        Id Persona:22,Nombre : Camilo ,
+        Apellido : Esparssdaddadadza,Email :ahsak@gmail.com
+        
+06:56:19 PM: DEBUG [persona_dao.py:47] 
+        Id Persona:23,Nombre : Camilo ,
+        Apellido : Esparss,Email :ahsak@gmail.com
+        
+06:56:19 PM: DEBUG [persona_dao.py:47] 
+        Id Persona:24,Nombre : predro ,
+        Apellido : Rios,Email :hkhk@gmail.com
+        
+06:57:48 PM: DEBUG [conexion.py:23] Conexion Exitosa :<connection object at 0x000001B3B44FA7B0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+06:58:09 PM: DEBUG [conexion.py:23] Conexion Exitosa :<connection object at 0x0000017D2714A7B0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+06:58:09 PM: DEBUG [persona_dao.py:34] persona a insertada : 
+        Id Persona:None,Nombre : predro ,
+        Apellido : Rios,Email :hkhk@gmail.com
+        
+06:58:09 PM: DEBUG [persona_dao.py:44] 1
+06:58:09 PM: DEBUG [conexion.py:36] Se abrio correctamente el cursor :<cursor object at 0x0000017D28E3AC80; closed: 0>
+06:58:09 PM: DEBUG [persona_dao.py:49] 
+        Id Persona:6,Nombre : Marco ,
+        Apellido : Rio,Email :jsldjls@mail.com
+        
+06:58:09 PM: DEBUG [persona_dao.py:49] 
+        Id Persona:7,Nombre : Carlos ,
+        Apellido : Lara,Email :sjj@mail.com
+        
+06:58:09 PM: DEBUG [persona_dao.py:49] 
+        Id Persona:8,Nombre : Carlos ,
+        Apellido : Lara,Email :sjj@mail.com
+        
+06:58:09 PM: DEBUG [persona_dao.py:49] 
+        Id Persona:9,Nombre : Felipe ,
+        Apellido : Lopez,Email :s78sdsaj@mail.com
+        
+06:58:09 PM: DEBUG [persona_dao.py:49] 
+        Id Persona:10,Nombre : Monica ,
+        Apellido : resyes,Email :s78sdsaj@mail.com
+        
+06:58:09 PM: DEBUG [persona_dao.py:49] 
+        Id Persona:14,Nombre : Mariela ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+06:58:09 PM: DEBUG [persona_dao.py:49] 
+        Id Persona:15,Nombre : Mariela ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+06:58:09 PM: DEBUG [persona_dao.py:49] 
+        Id Persona:16,Nombre : Andres ,
+        Apellido : Espaa,Email :ahsak@gmail.com
+        
+06:58:09 PM: DEBUG [persona_dao.py:49] 
+        Id Persona:17,Nombre : Mariela ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+06:58:09 PM: DEBUG [persona_dao.py:49] 
+        Id Persona:18,Nombre : Camilo ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+06:58:09 PM: DEBUG [persona_dao.py:49] 
+        Id Persona:19,Nombre : Camilo ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+06:58:09 PM: DEBUG [persona_dao.py:49] 
+        Id Persona:20,Nombre : Camilo ,
+        Apellido : Esparssdaddadadza,Email :ahsak@gmail.com
+        
+06:58:09 PM: DEBUG [persona_dao.py:49] 
+        Id Persona:21,Nombre : Camilo ,
+        Apellido : Esparssdaddadadza,Email :ahsak@gmail.com
+        
+06:58:09 PM: DEBUG [persona_dao.py:49] 
+        Id Persona:22,Nombre : Camilo ,
+        Apellido : Esparssdaddadadza,Email :ahsak@gmail.com
+        
+06:58:09 PM: DEBUG [persona_dao.py:49] 
+        Id Persona:23,Nombre : Camilo ,
+        Apellido : Esparss,Email :ahsak@gmail.com
+        
+06:58:09 PM: DEBUG [persona_dao.py:49] 
+        Id Persona:24,Nombre : predro ,
+        Apellido : Rios,Email :hkhk@gmail.com
+        
+06:58:09 PM: DEBUG [persona_dao.py:49] 
+        Id Persona:25,Nombre : predro ,
+        Apellido : Rios,Email :hkhk@gmail.com
+        
+07:04:25 PM: DEBUG [conexion.py:23] Conexion Exitosa :<connection object at 0x0000026C8E59A7B0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:04:25 PM: DEBUG [conexion.py:36] Se abrio correctamente el cursor :<cursor object at 0x0000026C9028AC80; closed: 0>
+07:06:30 PM: DEBUG [conexion.py:23] Conexion Exitosa :<connection object at 0x000001907DFEA7B0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:06:30 PM: DEBUG [conexion.py:36] Se abrio correctamente el cursor :<cursor object at 0x000001907FCCAD60; closed: 0>
+07:07:10 PM: DEBUG [conexion.py:23] Conexion Exitosa :<connection object at 0x00000262F5F1A7B0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:07:10 PM: DEBUG [conexion.py:36] Se abrio correctamente el cursor :<cursor object at 0x00000262F7B1AD60; closed: 0>
+07:07:31 PM: DEBUG [conexion.py:23] Conexion Exitosa :<connection object at 0x0000023EC8ACA7B0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:07:31 PM: DEBUG [conexion.py:36] Se abrio correctamente el cursor :<cursor object at 0x0000023ECA7BAD60; closed: 0>
+07:07:31 PM: DEBUG [persona_dao.py:44] Persona actualizada : 
+        Id Persona:16,Nombre : miguel ,
+        Apellido : Ramirez,Email :hsad@gmail.com
+        
+07:07:31 PM: DEBUG [persona_dao.py:65] Personas actualizadas :1
+07:08:37 PM: DEBUG [conexion.py:23] Conexion Exitosa :<connection object at 0x0000019A2678A7B0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:08:37 PM: DEBUG [conexion.py:36] Se abrio correctamente el cursor :<cursor object at 0x0000019A2839AD60; closed: 0>
+07:08:37 PM: DEBUG [persona_dao.py:44] Persona actualizada : 
+        Id Persona:16,Nombre : miguel ,
+        Apellido : Ramirez,Email :hsad@gmail.com
+        
+07:08:37 PM: DEBUG [persona_dao.py:63] Personas actualizadas :1
+07:08:37 PM: DEBUG [persona_dao.py:67] 
+        Id Persona:6,Nombre : Marco ,
+        Apellido : Rio,Email :jsldjls@mail.com
+        
+07:08:37 PM: DEBUG [persona_dao.py:67] 
+        Id Persona:7,Nombre : Carlos ,
+        Apellido : Lara,Email :sjj@mail.com
+        
+07:08:37 PM: DEBUG [persona_dao.py:67] 
+        Id Persona:8,Nombre : Carlos ,
+        Apellido : Lara,Email :sjj@mail.com
+        
+07:08:37 PM: DEBUG [persona_dao.py:67] 
+        Id Persona:9,Nombre : Felipe ,
+        Apellido : Lopez,Email :s78sdsaj@mail.com
+        
+07:08:37 PM: DEBUG [persona_dao.py:67] 
+        Id Persona:10,Nombre : Monica ,
+        Apellido : resyes,Email :s78sdsaj@mail.com
+        
+07:08:37 PM: DEBUG [persona_dao.py:67] 
+        Id Persona:14,Nombre : Mariela ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+07:08:37 PM: DEBUG [persona_dao.py:67] 
+        Id Persona:15,Nombre : Mariela ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+07:08:37 PM: DEBUG [persona_dao.py:67] 
+        Id Persona:16,Nombre : miguel ,
+        Apellido : Ramirez,Email :hsad@gmail.com
+        
+07:08:37 PM: DEBUG [persona_dao.py:67] 
+        Id Persona:17,Nombre : Mariela ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+07:08:37 PM: DEBUG [persona_dao.py:67] 
+        Id Persona:18,Nombre : Camilo ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+07:08:37 PM: DEBUG [persona_dao.py:67] 
+        Id Persona:19,Nombre : Camilo ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+07:08:37 PM: DEBUG [persona_dao.py:67] 
+        Id Persona:20,Nombre : Camilo ,
+        Apellido : Esparssdaddadadza,Email :ahsak@gmail.com
+        
+07:08:37 PM: DEBUG [persona_dao.py:67] 
+        Id Persona:21,Nombre : Camilo ,
+        Apellido : Esparssdaddadadza,Email :ahsak@gmail.com
+        
+07:08:37 PM: DEBUG [persona_dao.py:67] 
+        Id Persona:22,Nombre : Camilo ,
+        Apellido : Esparssdaddadadza,Email :ahsak@gmail.com
+        
+07:08:37 PM: DEBUG [persona_dao.py:67] 
+        Id Persona:23,Nombre : Camilo ,
+        Apellido : Esparss,Email :ahsak@gmail.com
+        
+07:08:37 PM: DEBUG [persona_dao.py:67] 
+        Id Persona:24,Nombre : predro ,
+        Apellido : Rios,Email :hkhk@gmail.com
+        
+07:08:37 PM: DEBUG [persona_dao.py:67] 
+        Id Persona:25,Nombre : predro ,
+        Apellido : Rios,Email :hkhk@gmail.com
+        
+07:13:09 PM: DEBUG [conexion.py:23] Conexion Exitosa :<connection object at 0x00000205297AA7B0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+07:13:09 PM: DEBUG [conexion.py:36] Se abrio correctamente el cursor :<cursor object at 0x000002052B3BBD60; closed: 0>
+07:13:09 PM: DEBUG [persona_dao.py:53] Objeto eliminado : 
+        Id Persona:20,Nombre : None ,
+        Apellido : None,Email :None
+        
+07:13:09 PM: DEBUG [persona_dao.py:76] personas eliminadas : 1
+07:13:09 PM: DEBUG [persona_dao.py:80] 
+        Id Persona:6,Nombre : Marco ,
+        Apellido : Rio,Email :jsldjls@mail.com
+        
+07:13:09 PM: DEBUG [persona_dao.py:80] 
+        Id Persona:7,Nombre : Carlos ,
+        Apellido : Lara,Email :sjj@mail.com
+        
+07:13:09 PM: DEBUG [persona_dao.py:80] 
+        Id Persona:8,Nombre : Carlos ,
+        Apellido : Lara,Email :sjj@mail.com
+        
+07:13:09 PM: DEBUG [persona_dao.py:80] 
+        Id Persona:9,Nombre : Felipe ,
+        Apellido : Lopez,Email :s78sdsaj@mail.com
+        
+07:13:09 PM: DEBUG [persona_dao.py:80] 
+        Id Persona:10,Nombre : Monica ,
+        Apellido : resyes,Email :s78sdsaj@mail.com
+        
+07:13:09 PM: DEBUG [persona_dao.py:80] 
+        Id Persona:14,Nombre : Mariela ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+07:13:09 PM: DEBUG [persona_dao.py:80] 
+        Id Persona:15,Nombre : Mariela ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+07:13:09 PM: DEBUG [persona_dao.py:80] 
+        Id Persona:16,Nombre : miguel ,
+        Apellido : Ramirez,Email :hsad@gmail.com
+        
+07:13:09 PM: DEBUG [persona_dao.py:80] 
+        Id Persona:17,Nombre : Mariela ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+07:13:09 PM: DEBUG [persona_dao.py:80] 
+        Id Persona:18,Nombre : Camilo ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+07:13:09 PM: DEBUG [persona_dao.py:80] 
+        Id Persona:19,Nombre : Camilo ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+07:13:09 PM: DEBUG [persona_dao.py:80] 
+        Id Persona:21,Nombre : Camilo ,
+        Apellido : Esparssdaddadadza,Email :ahsak@gmail.com
+        
+07:13:09 PM: DEBUG [persona_dao.py:80] 
+        Id Persona:22,Nombre : Camilo ,
+        Apellido : Esparssdaddadadza,Email :ahsak@gmail.com
+        
+07:13:09 PM: DEBUG [persona_dao.py:80] 
+        Id Persona:23,Nombre : Camilo ,
+        Apellido : Esparss,Email :ahsak@gmail.com
+        
+07:13:09 PM: DEBUG [persona_dao.py:80] 
+        Id Persona:24,Nombre : predro ,
+        Apellido : Rios,Email :hkhk@gmail.com
+        
+07:13:09 PM: DEBUG [persona_dao.py:80] 
+        Id Persona:25,Nombre : predro ,
+        Apellido : Rios,Email :hkhk@gmail.com
+        
+09:26:14 AM: DEBUG [conexion.py:23] Conexion Exitosa :<connection object at 0x000002A294B8E8C0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+09:26:14 AM: DEBUG [conexion.py:36] Se abrio correctamente el cursor :<cursor object at 0x000002A29678B2E0; closed: 0>
+09:26:14 AM: DEBUG [persona_dao.py:53] Objeto eliminado : 
+        Id Persona:20,Nombre : None ,
+        Apellido : None,Email :None
+        
+09:26:14 AM: DEBUG [persona_dao.py:76] personas eliminadas : 0
+09:26:15 AM: DEBUG [persona_dao.py:80] 
+        Id Persona:6,Nombre : Marco ,
+        Apellido : Rio,Email :jsldjls@mail.com
+        
+09:26:15 AM: DEBUG [persona_dao.py:80] 
+        Id Persona:7,Nombre : Carlos ,
+        Apellido : Lara,Email :sjj@mail.com
+        
+09:26:15 AM: DEBUG [persona_dao.py:80] 
+        Id Persona:8,Nombre : Carlos ,
+        Apellido : Lara,Email :sjj@mail.com
+        
+09:26:15 AM: DEBUG [persona_dao.py:80] 
+        Id Persona:9,Nombre : Felipe ,
+        Apellido : Lopez,Email :s78sdsaj@mail.com
+        
+09:26:15 AM: DEBUG [persona_dao.py:80] 
+        Id Persona:10,Nombre : Monica ,
+        Apellido : resyes,Email :s78sdsaj@mail.com
+        
+09:26:15 AM: DEBUG [persona_dao.py:80] 
+        Id Persona:14,Nombre : Mariela ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+09:26:15 AM: DEBUG [persona_dao.py:80] 
+        Id Persona:15,Nombre : Mariela ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+09:26:15 AM: DEBUG [persona_dao.py:80] 
+        Id Persona:16,Nombre : miguel ,
+        Apellido : Ramirez,Email :hsad@gmail.com
+        
+09:26:15 AM: DEBUG [persona_dao.py:80] 
+        Id Persona:17,Nombre : Mariela ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+09:26:15 AM: DEBUG [persona_dao.py:80] 
+        Id Persona:18,Nombre : Camilo ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+09:26:15 AM: DEBUG [persona_dao.py:80] 
+        Id Persona:19,Nombre : Camilo ,
+        Apellido : Esparza,Email :ahsak@gmail.com
+        
+09:26:15 AM: DEBUG [persona_dao.py:80] 
+        Id Persona:21,Nombre : Camilo ,
+        Apellido : Esparssdaddadadza,Email :ahsak@gmail.com
+        
+09:26:15 AM: DEBUG [persona_dao.py:80] 
+        Id Persona:22,Nombre : Camilo ,
+        Apellido : Esparssdaddadadza,Email :ahsak@gmail.com
+        
+09:26:15 AM: DEBUG [persona_dao.py:80] 
+        Id Persona:23,Nombre : Camilo ,
+        Apellido : Esparss,Email :ahsak@gmail.com
+        
+09:26:15 AM: DEBUG [persona_dao.py:80] 
+        Id Persona:24,Nombre : predro ,
+        Apellido : Rios,Email :hkhk@gmail.com
+        
+09:26:15 AM: DEBUG [persona_dao.py:80] 
+        Id Persona:25,Nombre : predro ,
+        Apellido : Rios,Email :hkhk@gmail.com
+        
